@@ -1,0 +1,2 @@
+class MyPgpError(Exception):
+    pass

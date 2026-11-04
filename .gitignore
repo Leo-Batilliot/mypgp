@@ -1,0 +1,7 @@
+/ressources/
+*.txt
+!tests/**/*.txt
+/my_pgp
+__pycache__/
+*.pyc
+
