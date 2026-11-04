@@ -1,5 +1,7 @@
 # my_pgp
 
+![Demo](docs/demo.gif)
+
 Projet Epitech (G-CNA-500) : un outil en ligne de commande qui chiffre et déchiffre des
 messages avec des algorithmes implémentés à la main, sans bibliothèque de cryptographie.
 
